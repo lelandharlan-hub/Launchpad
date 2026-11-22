@@ -1,2 +1,2 @@
 # Launchpad
-A very first repository for getting started with  Git and Github
+My very first repository for getting started with  Git and Github.
